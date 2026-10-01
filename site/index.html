@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f5ef">
+  <meta name="description" content="上海话词条、读音、释义与例句查询，附音系及连读变调资料。">
+  <title>上海话大词典</title>
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">跳到正文</a>
+  <header class="header">
+    <div class="masthead">
+      <a class="brand" href="#">上海话大词典</a>
+      <span class="edition" id="edition">读音 · 释义 · 例句</span>
+    </div>
+    <nav aria-label="主导航">
+      <button type="button" data-view="dictionary" aria-current="page">查词</button>
+      <button type="button" data-view="references">凡例与附录</button>
+      <button type="button" data-view="favorites">我的收藏</button>
+      <details class="downloads">
+        <summary>下载</summary>
+        <div class="download-menu">
+          <a href="data/entries.jsonl" download>词条 JSONL</a>
+          <a href="data/references.json" download>凡例及附录 JSON</a>
+          <a href="上海话大词典.zip" download>完整文字版（含阅读版）</a>
+        </div>
+      </details>
+      <button type="button" id="general-report">报告错误</button>
+    </nav>
+  </header>
+
+  <main id="main">
+    <div id="loading" role="status" class="loading">正在载入词典…</div>
+    <section id="dictionary-view" hidden aria-label="词条查询">
+      <form id="search-form" role="search" class="search-area">
+        <div class="search-row">
+          <label class="sr-only" for="query">检索词典</label>
+          <input id="query" type="search" placeholder="输入上海话、普通话释义或音标" autocomplete="off" spellcheck="false">
+          <button type="button" id="clear-query" class="quiet">清空</button>
+          <button type="submit" class="primary">查询</button>
+        </div>
+        <div class="filters">
+          <label>查找范围<select id="scope"><option value="all">词头与释文</option><option value="headword">只查词头</option><option value="ipa">音标</option></select></label>
+          <label>匹配方式<select id="match"><option value="contains">包含</option><option value="exact">完全相同</option><option value="prefix">开头相同</option></select></label>
+          <label>分类<select id="category"><option value="">全部分类</option></select></label>
+          <label>子类<select id="subcategory"><option value="">全部子类</option></select></label>
+          <button type="button" id="reset-filters" class="text-button">重置筛选</button>
+        </div>
+      </form>
+      <div class="workspace">
+        <aside id="result-pane" class="result-pane" aria-label="查询结果">
+          <div class="result-heading"><h1 id="list-heading">全部词条</h1><span id="result-count" role="status" aria-live="polite"></span></div>
+          <p id="favorites-hint" class="hint" hidden>收藏仅保存在当前浏览器。</p>
+          <div id="results" class="results"></div>
+          <div class="pagination" id="pagination">
+            <button type="button" id="previous-page">上一批</button>
+            <span id="page-count"></span>
+            <button type="button" id="next-page">下一批</button>
+          </div>
+        </aside>
+        <article id="entry-pane" class="entry-pane" aria-label="词条详情">
+          <button type="button" id="back-to-results" class="back text-button">返回查询结果</button>
+          <div id="entry-content"></div>
+        </article>
+      </div>
+    </section>
+    <section id="references-view" class="references-view" hidden aria-label="凡例与附录">
+      <aside class="reference-nav"><h1>凡例与附录</h1><div id="reference-list"></div></aside>
+      <article id="reference-content" class="reference-content"></article>
+    </section>
+    <noscript>请启用 JavaScript 以检索词典，也可以直接下载 <a href="data/entries.jsonl">词条数据</a>。</noscript>
+  </main>
+
+  <footer><span>钱乃荣、许宝华、汤珍珠 编著</span><span>本地收藏 · 无需注册即可查阅</span></footer>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <dialog id="report-dialog" aria-labelledby="report-title">
+    <form id="report-form">
+      <div class="dialog-heading"><h2 id="report-title">报告错误</h2><button type="button" id="close-report">关闭</button></div>
+      <p class="report-target" id="report-target"></p>
+      <label>错误类型<select id="error-type"><option>词头</option><option>音标</option><option>释义或例句</option><option>附录</option><option>网页问题</option><option>其他</option></select></label>
+      <label>错误内容与建议改法<textarea id="error-description" rows="5" required maxlength="4000" placeholder="例如：当前写作……，应改为……。如有依据，也可以附上。"></textarea></label>
+      <p class="hint">通过 GitHub 提交需要登录并有仓库访问权限；也可复制报告后发给维护者。</p>
+      <div class="dialog-actions"><button type="button" id="copy-report">复制报告</button><button type="submit" class="primary">前往 GitHub 提交</button></div>
+      <p class="hint" id="report-status" role="status"></p>
+    </form>
+  </dialog>
+  <dialog id="copy-dialog" aria-labelledby="copy-title">
+    <form method="dialog">
+      <div class="dialog-heading"><h2 id="copy-title">复制文字</h2><button>关闭</button></div>
+      <p>浏览器未允许自动复制，请选中下方文字复制。</p>
+      <textarea id="copy-text" readonly rows="10" aria-label="待复制内容"></textarea>
+    </form>
+  </dialog>
+</body>
+</html>

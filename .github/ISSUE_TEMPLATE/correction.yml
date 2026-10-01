@@ -1,0 +1,31 @@
+name: 报告词典错误
+description: 修正词头、音标、释义或网页问题
+title: "纠错："
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: 词头或词条标识
+      description: 也可以填写附录标题，或“网页问题”。
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: 错误类型
+      options:
+        - 词头
+        - 音标
+        - 释义或例句
+        - 附录
+        - 网页问题
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 错误与建议改法
+      description: 请写出当前内容、建议的改法；如有依据，也请附上。
+    validations:
+      required: true

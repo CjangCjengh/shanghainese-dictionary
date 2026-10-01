@@ -1,0 +1,2208 @@
+[
+  {
+    "id": "publication-note",
+    "title": "出版说明",
+    "blocks": [
+      {
+        "kind": "heading",
+        "text": "出版说明"
+      },
+      {
+        "kind": "paragraph",
+        "text": "上海方言文化底蕴深厚，随着上海经济贸易的快速发展，上海方言的社会影响也越来越大，越来越受国内外人士的关注。上海方言词典的编纂历史虽然已有一百三十多年，也出版过一些词典，但是能反映当代上海方言的词典，至今仍付阙如。为了满足广大读者的需求，现推出以当今中派、新派上海话为主的、较为完备的《上海话大词典》。"
+      },
+      {
+        "kind": "paragraph",
+        "text": "本词典是长期研究上海方言的语言学专家、吴方言研究领域的国际知名学者钱乃荣、许宝华、汤珍珠三位教授积聚了十多年的收集和研究成果，精心编纂而成的。词典共收录了具有上海方言特色的词语15 000余条，包括人们日常生活中习见、习用的词、短语、熟语（惯用语、歇后语、谚语等）。正文按义类编排，分天文气象、地理方位等二十七个大类；词目用国际音标标注上海话的读音，用五度制标注声调，并依照实际读音标注连读变调；释义后的例句，均采用当下通行的上海话口语实例；对确有本字可考的方言难字，引用《广韵》、《集韵》、《玉篇》等说明该字的古音和古义。"
+      },
+      {
+        "kind": "paragraph",
+        "text": "本书不仅适合普通读者阅读和查考，尤其可供研究上海风俗民情的学者作为权威的参考书。"
+      },
+      {
+        "kind": "paragraph",
+        "text": "尽管我们用力甚勤，并数易其稿，以期图书质量更臻完善，但限于水平和经验，恐怕仍会留下不少遗憾，有些地方仍不能尽如人意。我们恳切地希望广大读者和专家多提宝贵意见，以便再版时改进。"
+      },
+      {
+        "kind": "signature",
+        "text": "上海辞书出版社\n2007年8月"
+      }
+    ]
+  },
+  {
+    "id": "editorial-conventions",
+    "title": "凡例",
+    "blocks": [
+      {
+        "kind": "heading",
+        "text": "凡例"
+      },
+      {
+        "kind": "numbered_paragraph",
+        "text": "一、本书收录上海城区方言词语15 000余条，包括词、短语、熟语（惯用语、歇后语、谚语等）。",
+        "number": 1
+      },
+      {
+        "kind": "numbered_paragraph",
+        "text": "二、正文所收词目按义类编排。",
+        "number": 2
+      },
+      {
+        "kind": "numbered_paragraph",
+        "text": "三、词目尽量使用本字；若本字外尚有使用较广的俗字，则在符号“◇”后注明。词目中少数有音无字者，尽量用方言同音字代替，字下加“﹏”以示区别；若无替代字，则用“□”代字。",
+        "number": 3
+      },
+      {
+        "kind": "numbered_paragraph",
+        "text": "四、词目用国际音标标注上海话的声母、韵母，用五度制数字符号标注声调，并依照实际读音标注连读变调。词目有两种读法者，若读音不同而释义相同，则不同读音之间用“/”隔开；若读音不同，释义也不相同，则用“㊀㊁……”等表示；若词目中仅一字有两种读法，则在此字读音之后用“[　]”标注不同的读音。较长的词条，往往要分两个或两个以上的语音单位（即“语音词”）来连读，则用空格标出两个语音词之间的小停顿，并以整个词条的连读变调来标注实际读音。音标下用“_”表示白读音（口语音），用“‗”表示文读音（书面语音）。",
+        "number": 4
+      },
+      {
+        "kind": "numbered_paragraph",
+        "text": "五、词目标注词性，分别用〈名〉、〈动〉、〈形〉、〈数〉、〈量〉、〈代〉、〈副〉、〈介〉、〈连〉、〈助〉、〈叹〉、〈拟〉来表示名词、动词、形容词、数词、量词、代词、副词、介词、连词、助词、叹词、拟声拟态词。与普通话形义相同的词目、短语和熟语不标注词性。",
+        "number": 5
+      },
+      {
+        "kind": "numbered_paragraph",
+        "text": "六、在词性之后，用〔旧〕表示在上海话历史上使用过的、如今很少见闻的词语；用〔儿〕表示儿童用词；用〔俚〕表示俚语；用〔詈〕表示詈语。",
+        "number": 6
+      },
+      {
+        "kind": "numbered_paragraph",
+        "text": "七、同一词目下的不同义项，用“❶、❷、❸……”分别列出。",
+        "number": 7
+      },
+      {
+        "kind": "numbered_paragraph",
+        "text": "八、释义后用“：”引出例句；两个以上的例句之间用“|”隔开。例句采用当今通行的上海话口语实例。",
+        "number": 8
+      },
+      {
+        "kind": "numbered_paragraph",
+        "text": "九、对确有本字可考的难字，引用《广韵》、《集韵》、《玉篇》等说明该字的古音和古义，并用符号“◇”与前文的释义、例句隔开。部分说明文字之前，也用符号“◇”以示区别。",
+        "number": 9
+      },
+      {
+        "kind": "numbered_paragraph",
+        "text": "十、考虑到上海话词汇的完整性和学习上海话读者的方便，本书收录了上海话中与普通话形、义相同而仅有语音差异的一些常用词；为节省篇幅起见，对这些词语不作释义、不注词性，只列出上海话的读音。",
+        "number": 10
+      }
+    ]
+  },
+  {
+    "id": "appendix-phonology",
+    "title": "附录（一）上海话音系",
+    "blocks": [
+      {
+        "kind": "title",
+        "text": "附录"
+      },
+      {
+        "kind": "heading",
+        "text": "（一）上海话音系"
+      },
+      {
+        "kind": "heading",
+        "text": "1. 声母"
+      },
+      {
+        "kind": "table",
+        "text": "p 布帮北\tp‘ 怕胖劈\tb 步盆拔\tm 美门墨\tf 飞粉福\tv 扶奉服\nt 胆懂德\tt‘ 透听铁\td 地动夺\tn 乃能捺\tl 捞领勒\t\nts 煮正质\tts‘ 处仓出\ts 书松色\tz 树从石\t\t\ntɕ 举精脚\ttɕ‘ 丘轻切\tdʑ 旗群剧\tȵ 粘牛热\tɕ 修勋血\tʑ 齐素绝\nk 干公夹\tk‘ 开垦扩\tɡ 葵共轧\tŋ 捱硬额\th 花荒忽\t\n∅ 鸭衣乌迁\tɦ 鞋移胡雨\t\t\t\t",
+        "table": {
+          "rows": [
+            [
+              {
+                "text": "p 布帮北"
+              },
+              {
+                "text": "p‘ 怕胖劈"
+              },
+              {
+                "text": "b 步盆拔"
+              },
+              {
+                "text": "m 美门墨",
+                "runs": [
+                  {
+                    "text": "m 美门",
+                    "position": "baseline",
+                    "underline": 0
+                  },
+                  {
+                    "text": "墨",
+                    "position": "baseline",
+                    "underline": 0
+                  }
+                ]
+              },
+              {
+                "text": "f 飞粉福"
+              },
+              {
+                "text": "v 扶奉服"
+              }
+            ],
+            [
+              {
+                "text": "t 胆懂德",
+                "runs": [
+                  {
+                    "text": "t ",
+                    "position": "baseline",
+                    "underline": 0
+                  },
+                  {
+                    "text": "胆",
+                    "position": "baseline",
+                    "underline": 0
+                  },
+                  {
+                    "text": "懂德",
+                    "position": "baseline",
+                    "underline": 0
+                  }
+                ]
+              },
+              {
+                "text": "t‘ 透听铁"
+              },
+              {
+                "text": "d 地动夺"
+              },
+              {
+                "text": "n 乃能捺"
+              },
+              {
+                "text": "l 捞领勒"
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "ts 煮正质"
+              },
+              {
+                "text": "ts‘ 处仓出"
+              },
+              {
+                "text": "s 书松色"
+              },
+              {
+                "text": "z 树从石"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "tɕ 举精脚"
+              },
+              {
+                "text": "tɕ‘ 丘轻切"
+              },
+              {
+                "text": "dʑ 旗群剧"
+              },
+              {
+                "text": "ȵ 粘牛热"
+              },
+              {
+                "text": "ɕ 修勋血"
+              },
+              {
+                "text": "ʑ 齐素绝"
+              }
+            ],
+            [
+              {
+                "text": "k 干公夹"
+              },
+              {
+                "text": "k‘ 开垦扩"
+              },
+              {
+                "text": "ɡ 葵共轧"
+              },
+              {
+                "text": "ŋ 捱硬额"
+              },
+              {
+                "text": "h 花荒忽"
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "∅ 鸭衣乌迁"
+              },
+              {
+                "text": "ɦ 鞋移胡雨"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "kind": "heading",
+        "text": "2. 韵母"
+      },
+      {
+        "kind": "table",
+        "text": "ɿ 知次住\tᴀ 太柴鞋\to 花模蛇\tɔ 保朝高\tɤ 斗丑狗\tᴇ 雷来兰\tø 干最乱\ni 基钱微\tiᴀ 野写亚\t\tiɔ 条蕉桥\tiɤ 流尤休\t\t\nu 波歌做\tuᴀ 怪淮娃\t\t\t\tuᴇ 贯回弯\tuø 官欢完\ny 居女羽\t\t\t\t\t\tyø 软圆权\nã 冷长硬\tɑ̃ 堂放忙\tən 奋登论\toŋ 翁虫风\tᴀʔ 辣麦客\toʔ 北郭角\təʔ 舌色割\niã 良象阳\tiɑ̃ 旺\tin 紧人灵\tioŋ 荣穷浓\tiᴀʔ 药约脚\tioʔ 肉玉浴\tiɪʔ 笔亦吃\nuã 横\tuɑ̃ 光汪况\tuən 困魂温\t\tuᴀʔ 挖刮划\t\tuəʔ 活扩骨\n\t\tyn 均云训\t\t\t\tyɪʔ 血确悦\nər 而尔耳\tm̩ 姆亩呒\tŋ̍ 五鱼\t\t\t\t",
+        "table": {
+          "rows": [
+            [
+              {
+                "text": "ɿ 知次住"
+              },
+              {
+                "text": "ᴀ 太柴鞋"
+              },
+              {
+                "text": "o 花模蛇"
+              },
+              {
+                "text": "ɔ 保朝高"
+              },
+              {
+                "text": "ɤ 斗丑狗"
+              },
+              {
+                "text": "ᴇ 雷来兰"
+              },
+              {
+                "text": "ø 干最乱"
+              }
+            ],
+            [
+              {
+                "text": "i 基钱微"
+              },
+              {
+                "text": "iᴀ 野写亚"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "iɔ 条蕉桥"
+              },
+              {
+                "text": "iɤ 流尤休"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "u 波歌做"
+              },
+              {
+                "text": "uᴀ 怪淮娃"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "uᴇ 贯回弯"
+              },
+              {
+                "text": "uø 官欢完"
+              }
+            ],
+            [
+              {
+                "text": "y 居女羽"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "yø 软圆权"
+              }
+            ],
+            [
+              {
+                "text": "ã 冷长硬"
+              },
+              {
+                "text": "ɑ̃ 堂放忙"
+              },
+              {
+                "text": "ən 奋登论"
+              },
+              {
+                "text": "oŋ 翁虫风"
+              },
+              {
+                "text": "ᴀʔ 辣麦客"
+              },
+              {
+                "text": "oʔ 北郭角"
+              },
+              {
+                "text": "əʔ 舌色割"
+              }
+            ],
+            [
+              {
+                "text": "iã 良象阳"
+              },
+              {
+                "text": "iɑ̃ 旺",
+                "runs": [
+                  {
+                    "text": "iɑ̃ ",
+                    "position": "baseline",
+                    "underline": 0
+                  },
+                  {
+                    "text": "旺",
+                    "position": "baseline",
+                    "underline": 1
+                  }
+                ]
+              },
+              {
+                "text": "in 紧人灵"
+              },
+              {
+                "text": "ioŋ 荣穷浓"
+              },
+              {
+                "text": "iᴀʔ 药约脚"
+              },
+              {
+                "text": "ioʔ 肉玉浴"
+              },
+              {
+                "text": "iɪʔ 笔亦吃"
+              }
+            ],
+            [
+              {
+                "text": "uã 横"
+              },
+              {
+                "text": "uɑ̃ 光汪况"
+              },
+              {
+                "text": "uən 困魂温"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "uᴀʔ 挖刮划"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "uəʔ 活扩骨"
+              }
+            ],
+            [
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "yn 均云训"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "yɪʔ 血确悦"
+              }
+            ],
+            [
+              {
+                "text": "ər 而尔耳",
+                "runs": [
+                  {
+                    "text": "ər 而尔",
+                    "position": "baseline",
+                    "underline": 0
+                  },
+                  {
+                    "text": "耳",
+                    "position": "baseline",
+                    "underline": 2
+                  }
+                ]
+              },
+              {
+                "text": "m̩ 姆亩呒",
+                "runs": [
+                  {
+                    "text": "m̩ ",
+                    "position": "baseline",
+                    "underline": 0
+                  },
+                  {
+                    "text": "姆",
+                    "position": "baseline",
+                    "underline": 1
+                  },
+                  {
+                    "text": "亩",
+                    "position": "baseline",
+                    "underline": 1
+                  },
+                  {
+                    "text": "呒",
+                    "position": "baseline",
+                    "underline": 0
+                  }
+                ]
+              },
+              {
+                "text": "ŋ̍ 五鱼",
+                "runs": [
+                  {
+                    "text": "ŋ̍ ",
+                    "position": "baseline",
+                    "underline": 0
+                  },
+                  {
+                    "text": "五",
+                    "position": "baseline",
+                    "underline": 1
+                  },
+                  {
+                    "text": "鱼",
+                    "position": "baseline",
+                    "underline": 1
+                  }
+                ]
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "kind": "heading",
+        "text": "3. 声调"
+      },
+      {
+        "kind": "table",
+        "text": "代码\t调类\t调值\t例字\n1\t阴平\t53\t刀浆司东\n5\t阴去\t34\t岛到奖酱\n6\t阳去\t23\t桃导道墙\n7\t阴入\t55\t雀削说足\n8\t阳入\t12\t嚼石曲食",
+        "table": {
+          "rows": [
+            [
+              {
+                "text": "代码"
+              },
+              {
+                "text": "调类"
+              },
+              {
+                "text": "调值"
+              },
+              {
+                "text": "例字"
+              }
+            ],
+            [
+              {
+                "text": "1"
+              },
+              {
+                "text": "阴平"
+              },
+              {
+                "text": "53"
+              },
+              {
+                "text": "刀浆司东"
+              }
+            ],
+            [
+              {
+                "text": "5"
+              },
+              {
+                "text": "阴去"
+              },
+              {
+                "text": "34"
+              },
+              {
+                "text": "岛到奖酱"
+              }
+            ],
+            [
+              {
+                "text": "6"
+              },
+              {
+                "text": "阳去"
+              },
+              {
+                "text": "23"
+              },
+              {
+                "text": "桃导道墙"
+              }
+            ],
+            [
+              {
+                "text": "7"
+              },
+              {
+                "text": "阴入"
+              },
+              {
+                "text": "55",
+                "runs": [
+                  {
+                    "text": "55",
+                    "position": "baseline",
+                    "underline": 1
+                  }
+                ]
+              },
+              {
+                "text": "雀削说足"
+              }
+            ],
+            [
+              {
+                "text": "8"
+              },
+              {
+                "text": "阳入"
+              },
+              {
+                "text": "12",
+                "runs": [
+                  {
+                    "text": "12",
+                    "position": "baseline",
+                    "underline": 1
+                  }
+                ]
+              },
+              {
+                "text": "嚼石曲食"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "kind": "heading",
+        "text": "说明："
+      },
+      {
+        "kind": "paragraph",
+        "text": "① 声母零声母∅，在字条中不标。ɦ声母包括i、u、y前的浊音。"
+      },
+      {
+        "kind": "paragraph",
+        "text": "② 新派上海话的韵母uø并入ø，yø并入y，ã、ɑ̃合并为ᴀ̃，iã、iɑ̃合并为iᴀ̃，uã、uɑ̃合并为uᴀ̃，ᴀʔ、əʔ合并为ɐʔ，uᴀʔ、uəʔ合并为uɐʔ，iᴀʔ并入iɪʔ。"
+      }
+    ]
+  },
+  {
+    "id": "appendix-sandhi",
+    "title": "附录（二）上海话连读变调",
+    "blocks": [
+      {
+        "kind": "heading",
+        "text": "（二）上海话连读变调"
+      },
+      {
+        "kind": "heading",
+        "text": "1. 第一式：一个语音词内的连读变调"
+      },
+      {
+        "kind": "table",
+        "text": "代码调式\t单字调\t二字调\t三字调\t四字调\t五字调\n1. 阴平式\t53\t55＋21\t55＋33＋21\t55＋33＋33＋21\t55＋33＋33＋33＋21\n5. 阴去式\t34\t33＋44\t33＋55＋21\t33＋55＋33＋21\t33＋55＋33＋33＋21\n6. 阳去式\t23\t22＋44\t22＋55＋21\t22＋55＋33＋21\t22＋55＋33＋33＋21\n7. 阴入式\t55\t33＋44\t33＋55＋21\t33＋55＋33＋21\t33＋55＋33＋33＋21\n8. 阳入式\t12\t11＋23\t11＋22＋23\tA. 22＋55＋33＋21\nB. 11＋22＋22＋23\t22＋55＋33＋33＋21",
+        "table": {
+          "rows": [
+            [
+              {
+                "text": "代码调式"
+              },
+              {
+                "text": "单字调"
+              },
+              {
+                "text": "二字调"
+              },
+              {
+                "text": "三字调"
+              },
+              {
+                "text": "四字调"
+              },
+              {
+                "text": "五字调"
+              }
+            ],
+            [
+              {
+                "text": "1. 阴平式"
+              },
+              {
+                "text": "53"
+              },
+              {
+                "text": "55＋21"
+              },
+              {
+                "text": "55＋33＋21"
+              },
+              {
+                "text": "55＋33＋33＋21"
+              },
+              {
+                "text": "55＋33＋33＋33＋21"
+              }
+            ],
+            [
+              {
+                "text": "5. 阴去式"
+              },
+              {
+                "text": "34"
+              },
+              {
+                "text": "33＋44"
+              },
+              {
+                "text": "33＋55＋21"
+              },
+              {
+                "text": "33＋55＋33＋21"
+              },
+              {
+                "text": "33＋55＋33＋33＋21"
+              }
+            ],
+            [
+              {
+                "text": "6. 阳去式"
+              },
+              {
+                "text": "23"
+              },
+              {
+                "text": "22＋44"
+              },
+              {
+                "text": "22＋55＋21"
+              },
+              {
+                "text": "22＋55＋33＋21"
+              },
+              {
+                "text": "22＋55＋33＋33＋21"
+              }
+            ],
+            [
+              {
+                "text": "7. 阴入式"
+              },
+              {
+                "text": "55",
+                "runs": [
+                  {
+                    "text": "55",
+                    "position": "baseline",
+                    "underline": 1
+                  }
+                ]
+              },
+              {
+                "text": "33＋44",
+                "runs": [
+                  {
+                    "text": "33",
+                    "position": "baseline",
+                    "underline": 1
+                  },
+                  {
+                    "text": "＋44",
+                    "position": "baseline",
+                    "underline": 0
+                  }
+                ]
+              },
+              {
+                "text": "33＋55＋21",
+                "runs": [
+                  {
+                    "text": "33",
+                    "position": "baseline",
+                    "underline": 1
+                  },
+                  {
+                    "text": "＋55＋21",
+                    "position": "baseline",
+                    "underline": 0
+                  }
+                ]
+              },
+              {
+                "text": "33＋55＋33＋21",
+                "runs": [
+                  {
+                    "text": "33",
+                    "position": "baseline",
+                    "underline": 1
+                  },
+                  {
+                    "text": "＋55＋33＋21",
+                    "position": "baseline",
+                    "underline": 0
+                  }
+                ]
+              },
+              {
+                "text": "33＋55＋33＋33＋21",
+                "runs": [
+                  {
+                    "text": "33",
+                    "position": "baseline",
+                    "underline": 1
+                  },
+                  {
+                    "text": "＋55＋33＋33＋21",
+                    "position": "baseline",
+                    "underline": 0
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "text": "8. 阳入式"
+              },
+              {
+                "text": "12",
+                "runs": [
+                  {
+                    "text": "12",
+                    "position": "baseline",
+                    "underline": 1
+                  }
+                ]
+              },
+              {
+                "text": "11＋23",
+                "runs": [
+                  {
+                    "text": "11",
+                    "position": "baseline",
+                    "underline": 1
+                  },
+                  {
+                    "text": "＋23",
+                    "position": "baseline",
+                    "underline": 0
+                  }
+                ]
+              },
+              {
+                "text": "11＋22＋23",
+                "runs": [
+                  {
+                    "text": "11",
+                    "position": "baseline",
+                    "underline": 1
+                  },
+                  {
+                    "text": "＋22＋23",
+                    "position": "baseline",
+                    "underline": 0
+                  }
+                ]
+              },
+              {
+                "text": "A. 22＋55＋33＋21\nB. 11＋22＋22＋23",
+                "runs": [
+                  {
+                    "text": "A. ",
+                    "position": "baseline",
+                    "underline": 0
+                  },
+                  {
+                    "text": "22",
+                    "position": "baseline",
+                    "underline": 1
+                  },
+                  {
+                    "text": "＋55＋33＋21\nB. ",
+                    "position": "baseline",
+                    "underline": 0
+                  },
+                  {
+                    "text": "11",
+                    "position": "baseline",
+                    "underline": 1
+                  },
+                  {
+                    "text": "＋22＋22＋23",
+                    "position": "baseline",
+                    "underline": 0
+                  }
+                ]
+              },
+              {
+                "text": "22＋55＋33＋33＋21",
+                "runs": [
+                  {
+                    "text": "22",
+                    "position": "baseline",
+                    "underline": 1
+                  },
+                  {
+                    "text": "＋55＋33＋33＋21",
+                    "position": "baseline",
+                    "underline": 0
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "kind": "paragraph",
+        "text": "说明：两字以上的连读变调调型大致是单字调调型的延伸模式。"
+      },
+      {
+        "kind": "heading",
+        "text": "2. 第二式：两个、多个语音词之间的连读变调"
+      },
+      {
+        "kind": "table",
+        "text": "发生变调的位置\t1. 阴平调\t5. 阴去调\t6. 阳去调\t7. 阴入调\t8. 阳入调\n只有一个字时\t44\t33\t44\t22\n上个单字后的单字\n二字、多字组的末字\t33\t33\n上个二字、多字组后面较紧密的单字",
+        "table": {
+          "rows": [
+            [
+              {
+                "text": "发生变调的位置"
+              },
+              {
+                "text": "1. 阴平调"
+              },
+              {
+                "text": "5. 阴去调"
+              },
+              {
+                "text": "6. 阳去调"
+              },
+              {
+                "text": "7. 阴入调"
+              },
+              {
+                "text": "8. 阳入调"
+              }
+            ],
+            [
+              {
+                "text": "只有一个字时"
+              },
+              {
+                "text": "44",
+                "row_span": 2,
+                "column_span": 2
+              },
+              {
+                "text": "33",
+                "row_span": 2
+              },
+              {
+                "text": "44",
+                "runs": [
+                  {
+                    "text": "44",
+                    "position": "baseline",
+                    "underline": 1
+                  }
+                ],
+                "row_span": 2
+              },
+              {
+                "text": "22",
+                "runs": [
+                  {
+                    "text": "22",
+                    "position": "baseline",
+                    "underline": 1
+                  }
+                ],
+                "row_span": 2
+              }
+            ],
+            [
+              {
+                "text": "上个单字后的单字"
+              }
+            ],
+            [
+              {
+                "text": "二字、多字组的末字"
+              },
+              {
+                "text": "33",
+                "row_span": 2,
+                "column_span": 3
+              },
+              {
+                "text": "33",
+                "runs": [
+                  {
+                    "text": "33",
+                    "position": "baseline",
+                    "underline": 1
+                  }
+                ],
+                "row_span": 2,
+                "column_span": 2
+              }
+            ],
+            [
+              {
+                "text": "上个二字、多字组后面较紧密的单字"
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "kind": "paragraph",
+        "text": "说明：如果一个词语是用两个或几个语音词连续而成，即该词语内部有语音上的小停顿一处或多处，在两个语音词相接的时候，在通常的语流中，前个语音词的末尾音节的声调会发生中性化的现象，读成一个简化的平调，上表列出的变调调值就是发生变读的那个音节上的读法。该词语的其他音节都按第一式连读变调读。第二式的变调是非音位式的，如果用慢速读，两个语音词之间相接也可以都分别读第一式变调，而不用第二式连读。"
+      }
+    ]
+  },
+  {
+    "id": "appendix-common-words",
+    "title": "附录（三）上海话最常用词简明释义",
+    "blocks": [
+      {
+        "kind": "heading",
+        "text": "（三）上海话最常用词简明释义"
+      },
+      {
+        "kind": "enumeration",
+        "text": "① 侬：你\n② 伊：他、她、它\n③ 阿拉：我们\n④ 㑚：你们\n⑤ 伊拉：他们\n⑥ 搿个：这个\n⑦ 埃个：那个\n⑧ 搿搭：这儿\n⑨ 埃面、伊面：那儿\n⑩ 搿能：这么\n⑪ 埃能：那么\n⑫ 哪能：怎么、怎么样\n⑬ 介：这么（程度）\n⑭ 拨：给，被\n⑮ 勿：不\n⑯ 呒没：没有\n⑰ 老：很，非常\n⑱ 邪气：很，非常\n⑲ 侪：都\n⑳ 辣(辣)：在\n㉑ 辣海、辣辣：在那儿\n㉒ 葛佬：所以\n㉓ ……浪：……上\n㉔ 脱：和\n㉕ 个：的、地\n㉖ 𠲎：吗、吧\n㉗ 唻：啦、吧\n㉘ 事体：事情\n㉙ 物事：东西\n㉚ 啥人：谁"
+      }
+    ]
+  },
+  {
+    "id": "appendix-ipa-chart",
+    "title": "附录（四）国际音标表",
+    "blocks": [
+      {
+        "kind": "heading",
+        "text": "（四）国际音标表"
+      },
+      {
+        "kind": "heading",
+        "text": "辅音"
+      },
+      {
+        "kind": "table",
+        "text": "发音方法／发音部位\t唇音\t舌尖音\t舌叶音\t舌面音\t小舌音\t喉壁音\t喉音\n双唇\t唇齿\t齿间\t舌尖前\t舌尖中\t舌尖后\t舌面前\t舌面中\t舌面后（舌根）\n塞\t清\t不送气\tp\t\t\t\tt\tʈ\t\tȶ\tc\tk\tq\t\tʔ\n塞\t清\t送气\tp‘\t\t\t\tt‘\tʈ‘\t\tȶ‘\tc‘\tk‘\tq‘\t\tʔ‘\n塞\t浊\t不送气\tb\t\t\t\td\tɖ\t\tȡ\tɟ\tɡ\tɢ\t\t\n塞\t浊\t送气\tb‘\t\t\t\td‘\tɖ‘\t\tȡ‘\tɟ‘\tɡ‘\tɢ‘\t\t\n塞擦\t清\t不送气\t\tpf\ttθ\tts\t\ttʂ\ttʃ\ttɕ\t\t\t\t\t\n塞擦\t清\t送气\t\tpf‘\ttθ‘\tts‘\t\ttʂ‘\ttʃ‘\ttɕ‘\t\t\t\t\t\n塞擦\t浊\t不送气\t\tbv\tdð\tdz\t\tdʐ\tdʒ\tdʑ\t\t\t\t\t\n塞擦\t浊\t送气\t\tbv‘\tdð‘\tdz‘\t\tdʐ‘\tdʒ‘\tdʑ‘\t\t\t\t\t\n鼻\t浊\t\tm\tɱ\t\t\tn\tɳ\t\tȵ\tɲ\tŋ\tɴ\t\t\n颤\t浊\t\t\t\t\t\tr\t\t\t\t\t\tʀ\t\t\n闪\t浊\t\t\t\t\t\tɾ\tɽ\t\t\t\t\tʀ\t\t\n边\t浊\t\t\t\t\t\tl\tɭ\t\t\tʎ\t(ɫ)\t\t\t\n边擦\t清\t\t\t\t\t\tɬ\t\t\t\t\t\t\t\t\n边擦\t浊\t\t\t\t\t\tɮ\t\t\t\t\t\t\t\t\n擦\t清\t\tɸ\tf\tθ\ts\t\tʂ\tʃ\tɕ\tç\tx\tχ\tħ\th\n擦\t浊\t\tβ\tv\tð\tz\t\tʐ\tʒ\tʑ\tj\tɣ\tʁ\tʕ\tɦ\n半元音\t浊\t\tw ɥ\tʋ\t\t\tɹ\t\t\t\tj(ɥ)\t(w)\tʁ\t\t",
+        "table": {
+          "rows": [
+            [
+              {
+                "text": "发音方法／发音部位",
+                "column_span": 3,
+                "row_span": 2
+              },
+              {
+                "text": "唇音",
+                "column_span": 2
+              },
+              {
+                "text": "舌尖音",
+                "column_span": 4
+              },
+              {
+                "text": "舌叶音",
+                "row_span": 2
+              },
+              {
+                "text": "舌面音",
+                "column_span": 3
+              },
+              {
+                "text": "小舌音",
+                "row_span": 2
+              },
+              {
+                "text": "喉壁音",
+                "row_span": 2
+              },
+              {
+                "text": "喉音",
+                "row_span": 2
+              }
+            ],
+            [
+              {
+                "text": "双唇"
+              },
+              {
+                "text": "唇齿"
+              },
+              {
+                "text": "齿间"
+              },
+              {
+                "text": "舌尖前"
+              },
+              {
+                "text": "舌尖中"
+              },
+              {
+                "text": "舌尖后"
+              },
+              {
+                "text": "舌面前"
+              },
+              {
+                "text": "舌面中"
+              },
+              {
+                "text": "舌面后（舌根）"
+              }
+            ],
+            [
+              {
+                "text": "塞"
+              },
+              {
+                "text": "清"
+              },
+              {
+                "text": "不送气"
+              },
+              {
+                "text": "p"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "t"
+              },
+              {
+                "text": "ʈ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ȶ"
+              },
+              {
+                "text": "c"
+              },
+              {
+                "text": "k"
+              },
+              {
+                "text": "q"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ʔ"
+              }
+            ],
+            [
+              {
+                "text": "塞"
+              },
+              {
+                "text": "清"
+              },
+              {
+                "text": "送气"
+              },
+              {
+                "text": "p‘"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "t‘"
+              },
+              {
+                "text": "ʈ‘"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ȶ‘"
+              },
+              {
+                "text": "c‘"
+              },
+              {
+                "text": "k‘"
+              },
+              {
+                "text": "q‘"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ʔ‘"
+              }
+            ],
+            [
+              {
+                "text": "塞"
+              },
+              {
+                "text": "浊"
+              },
+              {
+                "text": "不送气"
+              },
+              {
+                "text": "b"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "d"
+              },
+              {
+                "text": "ɖ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ȡ"
+              },
+              {
+                "text": "ɟ"
+              },
+              {
+                "text": "ɡ"
+              },
+              {
+                "text": "ɢ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "塞"
+              },
+              {
+                "text": "浊"
+              },
+              {
+                "text": "送气"
+              },
+              {
+                "text": "b‘"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "d‘"
+              },
+              {
+                "text": "ɖ‘"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ȡ‘"
+              },
+              {
+                "text": "ɟ‘"
+              },
+              {
+                "text": "ɡ‘"
+              },
+              {
+                "text": "ɢ‘"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "塞擦"
+              },
+              {
+                "text": "清"
+              },
+              {
+                "text": "不送气"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "pf"
+              },
+              {
+                "text": "tθ"
+              },
+              {
+                "text": "ts"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "tʂ"
+              },
+              {
+                "text": "tʃ"
+              },
+              {
+                "text": "tɕ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "塞擦"
+              },
+              {
+                "text": "清"
+              },
+              {
+                "text": "送气"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "pf‘"
+              },
+              {
+                "text": "tθ‘"
+              },
+              {
+                "text": "ts‘"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "tʂ‘"
+              },
+              {
+                "text": "tʃ‘"
+              },
+              {
+                "text": "tɕ‘"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "塞擦"
+              },
+              {
+                "text": "浊"
+              },
+              {
+                "text": "不送气"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "bv"
+              },
+              {
+                "text": "dð"
+              },
+              {
+                "text": "dz"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "dʐ"
+              },
+              {
+                "text": "dʒ"
+              },
+              {
+                "text": "dʑ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "塞擦"
+              },
+              {
+                "text": "浊"
+              },
+              {
+                "text": "送气"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "bv‘"
+              },
+              {
+                "text": "dð‘"
+              },
+              {
+                "text": "dz‘"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "dʐ‘"
+              },
+              {
+                "text": "dʒ‘"
+              },
+              {
+                "text": "dʑ‘"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "鼻"
+              },
+              {
+                "text": "浊"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "m"
+              },
+              {
+                "text": "ɱ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "n"
+              },
+              {
+                "text": "ɳ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ȵ"
+              },
+              {
+                "text": "ɲ"
+              },
+              {
+                "text": "ŋ"
+              },
+              {
+                "text": "ɴ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "颤"
+              },
+              {
+                "text": "浊"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "r"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ʀ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "闪"
+              },
+              {
+                "text": "浊"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ɾ"
+              },
+              {
+                "text": "ɽ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ʀ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "边"
+              },
+              {
+                "text": "浊"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "l"
+              },
+              {
+                "text": "ɭ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ʎ"
+              },
+              {
+                "text": "(ɫ)"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "边擦"
+              },
+              {
+                "text": "清"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ɬ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "边擦"
+              },
+              {
+                "text": "浊"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ɮ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "擦"
+              },
+              {
+                "text": "清"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ɸ"
+              },
+              {
+                "text": "f"
+              },
+              {
+                "text": "θ"
+              },
+              {
+                "text": "s"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ʂ"
+              },
+              {
+                "text": "ʃ"
+              },
+              {
+                "text": "ɕ"
+              },
+              {
+                "text": "ç"
+              },
+              {
+                "text": "x"
+              },
+              {
+                "text": "χ"
+              },
+              {
+                "text": "ħ"
+              },
+              {
+                "text": "h"
+              }
+            ],
+            [
+              {
+                "text": "擦"
+              },
+              {
+                "text": "浊"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "β"
+              },
+              {
+                "text": "v"
+              },
+              {
+                "text": "ð"
+              },
+              {
+                "text": "z"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ʐ"
+              },
+              {
+                "text": "ʒ"
+              },
+              {
+                "text": "ʑ"
+              },
+              {
+                "text": "j"
+              },
+              {
+                "text": "ɣ"
+              },
+              {
+                "text": "ʁ"
+              },
+              {
+                "text": "ʕ"
+              },
+              {
+                "text": "ɦ"
+              }
+            ],
+            [
+              {
+                "text": "半元音"
+              },
+              {
+                "text": "浊"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "w ɥ"
+              },
+              {
+                "text": "ʋ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ɹ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "j(ɥ)"
+              },
+              {
+                "text": "(w)"
+              },
+              {
+                "text": "ʁ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              }
+            ]
+          ]
+        }
+      },
+      {
+        "kind": "heading",
+        "text": "元音"
+      },
+      {
+        "kind": "table",
+        "text": "\t圆唇元音\t舌尖元音\t舌面元音\n\t\t前\t后\t前\t央\t后\n高\t(ʮʯyʉu)\tɿʮ\tʅʯ\ti y\tɨ ʉ\tɯ u\n\t\t\t\tɪ ʏ\t\tᴜ\n半高\t(ø o)\t\t\te ø\tɘ ɵ\tɤ o\n\t\t\t\tᴇ\tə\t\n半低\t(œ ɔ)\t\t\tɛ œ\tɜ\tʌ ɔ\n\t\t\t\tæ\tɐ\t\n低\t(ɒ)\t\t\ta\tᴀ\tɑ ɒ",
+        "table": {
+          "rows": [
+            [
+              {
+                "text": ""
+              },
+              {
+                "text": "圆唇元音"
+              },
+              {
+                "text": "舌尖元音",
+                "column_span": 2
+              },
+              {
+                "text": "舌面元音",
+                "column_span": 3
+              }
+            ],
+            [
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "前"
+              },
+              {
+                "text": "后"
+              },
+              {
+                "text": "前"
+              },
+              {
+                "text": "央"
+              },
+              {
+                "text": "后"
+              }
+            ],
+            [
+              {
+                "text": "高"
+              },
+              {
+                "text": "(ʮʯyʉu)"
+              },
+              {
+                "text": "ɿʮ"
+              },
+              {
+                "text": "ʅʯ"
+              },
+              {
+                "text": "i y"
+              },
+              {
+                "text": "ɨ ʉ"
+              },
+              {
+                "text": "ɯ u"
+              }
+            ],
+            [
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ɪ ʏ"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ᴜ"
+              }
+            ],
+            [
+              {
+                "text": "半高"
+              },
+              {
+                "text": "(ø o)"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "e ø"
+              },
+              {
+                "text": "ɘ ɵ"
+              },
+              {
+                "text": "ɤ o"
+              }
+            ],
+            [
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ᴇ"
+              },
+              {
+                "text": "ə"
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "半低"
+              },
+              {
+                "text": "(œ ɔ)"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "ɛ œ"
+              },
+              {
+                "text": "ɜ"
+              },
+              {
+                "text": "ʌ ɔ"
+              }
+            ],
+            [
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "æ"
+              },
+              {
+                "text": "ɐ"
+              },
+              {
+                "text": ""
+              }
+            ],
+            [
+              {
+                "text": "低"
+              },
+              {
+                "text": "(ɒ)"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "a"
+              },
+              {
+                "text": "ᴀ"
+              },
+              {
+                "text": "ɑ ɒ"
+              }
+            ]
+          ]
+        }
+      }
+    ]
+  }
+]
