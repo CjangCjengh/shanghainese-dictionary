@@ -66,7 +66,8 @@ def main():
             if next_sub != subcategory:
                 subcategory = next_sub
                 parts.append('## ' + subcategory)
-            parts.append(f'<a id="{entry["id"]}"></a>\n\n### ' + html.escape(entry['headword']))
+            headword = styled(entry['headword_runs']) if 'headword_runs' in entry else html.escape(entry['headword'])
+            parts.append(f'<a id="{entry["id"]}"></a>\n\n### ' + headword)
             if entry['pronunciation']['text']:
                 parts.append(styled(entry['pronunciation']['runs']))
             if entry['text']:
